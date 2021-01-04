@@ -1,0 +1,20 @@
+{
+  "name": "magazine notification (v.1.1)",
+  "version": "1.1",
+  "description": "chrome extension for managing check history of articles",
+  "manifest_version": 2,
+  "background": {
+    "persistent": false,
+    "scripts": [
+      "./src/background.js"
+    ]
+  },
+  "permissions": [
+    "storage"
+  ],
+  "browser_action": {
+    "default_title": "CodeStates Magazine",
+    "default_popup": "popup.html",
+    "default_icon": "./public/codestates_logo.png"
+  }
+}

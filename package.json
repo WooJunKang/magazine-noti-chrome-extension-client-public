@@ -1,0 +1,19 @@
+{
+  "name": "magazine-chrome-extension-deploy",
+  "version": "1.0.0",
+  "description": "magazine noti chrome extension for deploy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WooJunKang/magazine-chrome-extension-deploy.git"
+  },
+  "author": "woojun kang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WooJunKang/magazine-chrome-extension-deploy/issues"
+  },
+  "homepage": "https://github.com/WooJunKang/magazine-chrome-extension-deploy#readme"
+}
