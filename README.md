@@ -2,6 +2,9 @@
 
 코드스테이츠 매거진 내 콘텐츠의 조회 history를 관리하기 위한 크롬 익스텐션 앱.
 
+<br />
+<br />
+
 ## 🌟 App View
 
 ![app_view](public/readMe/크롬_확장프로그램.gif)
